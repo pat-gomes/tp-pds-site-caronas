@@ -6,7 +6,7 @@ horário e local que precisem ou que estão oferecendo carona e os usuários que
    JS
 # Grupo:
  * Amanda Xavier - Dev Full Stack 
- * Gabriel - Dev Full Stack
+ * Gabriel Lucas Freire Martins Silva - Dev Full Stack
  * Lucas Leandro - Dev Full Stack
  * Patricia Silva - Dev Full Stack
   
