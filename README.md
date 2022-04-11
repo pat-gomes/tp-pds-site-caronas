@@ -3,10 +3,12 @@ O objetivo é desenvolver um site onde seja possível conectar pessoas que desej
 horário e local que precisem ou que estão oferecendo carona e os usuários que pretendem fazer a mesma rota possam se conectar, e após o contato possam marcar um ponto de encontro.
 
 # Tech
-   JS
+ * Back - Node
+ * Front - Angular/Ionic 
+ * Banco - MongoDB 
 # Grupo:
  * Amanda Xavier - Dev Full Stack 
- * Gabriel Lucas Freire Martins Silva - Dev Full Stack
- * Lucas Leandro - Dev Full Stack
+ * Gabriel Lucas Freire Martins Silva - PO
+ * Lucas Leandro - Ux Designer
  * Patricia Silva - Dev Full Stack
   
