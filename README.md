@@ -10,5 +10,5 @@ horário e local que precisem ou que estão oferecendo carona e os usuários que
  * Amanda Xavier - Dev Full Stack 
  * Gabriel Lucas Freire Martins Silva - PO
  * Lucas Leandro - Ux Designer
- * Patricia Silva - Dev Full Stack
+ * Patricia Silva - Dev Full Stack.
   
